@@ -1,0 +1,11 @@
+ALTER TABLE pizza_sales
+MODIFY COLUMN pizza_name_id VARCHAR(50),
+MODIFY COLUMN pizza_size VARCHAR(10),
+MODIFY COLUMN pizza_category VARCHAR(50),
+MODIFY COLUMN pizza_name VARCHAR(100),
+MODIFY COLUMN unit_price DECIMAL(10,2),
+MODIFY COLUMN total_price DECIMAL(10,2);
+
+
+
+
