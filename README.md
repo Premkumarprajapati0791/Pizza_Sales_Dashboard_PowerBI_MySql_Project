@@ -105,5 +105,7 @@ Pizza-Sales-Dashboard/
 
 📷 Dashboard Preview
 
-![Dashboard Overview](Images/dashboard.png.png)
+![Dashboard Overview](Images/dashboard_overview.png.png)
+
+![Dashboard Overview](Images/dashboard_overview.png.png)
 
